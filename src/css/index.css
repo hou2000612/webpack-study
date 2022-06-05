@@ -1,10 +1,19 @@
-html,
-body {
-  margin: 0;
-  padding: 0;
+li {
+  line-height: 30px;
+  font-size: 12px;
 }
-html ul,
-body ul {
-  margin: 0;
-  padding: 0;
+
+.box {
+  width: 200px;
+  height: 150px;
+  background: url("../images/1.jpg");
+  background-size: cover;
 }
+
+.box2 {
+  width: 200px;
+  height: 150px;
+  background: url("../images2/1.jpg");
+  background-size: cover;
+}
+/*# sourceMappingURL=index.css.map */
