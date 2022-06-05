@@ -1,3 +1,10 @@
-li{
-    list-style: none;
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+html ul,
+body ul {
+  margin: 0;
+  padding: 0;
 }
